@@ -1,1 +1,2 @@
-# python_study_projects
+# My Python Study Projects
+- [SmartCalc](./SmartCalc/) - Implementation of an extended version of the usual calculator, which can be found in the standard applications of each operating system in the python programming language. In addition to basic arithmetic operations such as add/subtract and multiply/divide, the calculator provides the ability to calculate arithmetic expressions, following the order, as well as some mathematical functions (sine, cosine, logarithm, etc.).
