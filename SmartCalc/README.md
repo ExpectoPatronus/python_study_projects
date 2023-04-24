@@ -59,8 +59,9 @@ The program supports the following arithmetic operations and mathematical functi
 
 
 ## Environment requirements
-Operating system: Mac OS
-Python version 3.11
+
+- Operating system: Mac OS
+- Python version 3.11
 
 
 ## Installation and Running
